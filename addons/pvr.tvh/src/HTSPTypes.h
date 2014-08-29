@@ -113,6 +113,7 @@ struct SChannel
 struct SRecording
 {
   bool             del;
+  bool             autorec;
   uint32_t         id;
   uint32_t         channel;
   uint32_t         eventId;
@@ -128,6 +129,7 @@ struct SRecording
   void Clear()
   {
     del     = false;
+    autorec = false;
     id      = 0;
     channel = 0;
     eventId = 0;
