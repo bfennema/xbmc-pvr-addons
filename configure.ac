@@ -299,6 +299,7 @@ AC_CONFIG_FILES([Makefile \
                  addons/pvr.dvbviewer/Makefile \
                  addons/pvr.hts/Makefile \
                  addons/pvr.iptvsimple/Makefile \
+                 addons/pvr.tvh/Makefile \
                  addons/pvr.mediaportal.tvserver/Makefile \
                  addons/pvr.mythtv/Makefile \
                  addons/pvr.mythtv.cmyth/Makefile \
@@ -313,6 +314,7 @@ AC_CONFIG_FILES([Makefile \
                  addons/pvr.dvbviewer/addon/addon.xml
                  addons/pvr.hts/addon/addon.xml
                  addons/pvr.iptvsimple/addon/addon.xml
+                 addons/pvr.tvh/addon/addon.xml
                  addons/pvr.mediaportal.tvserver/addon/addon.xml
                  addons/pvr.mythtv/addon/addon.xml
                  addons/pvr.mythtv.cmyth/addon/addon.xml
